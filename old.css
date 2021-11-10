@@ -1,0 +1,88 @@
+
+/* 
+@media screen and (max-width: 576px) {
+  body {
+    width: auto 
+    height: auto
+  }
+  .container {
+    width: auto 
+    height: auto
+  }
+/*  */
+
+/* img {
+    width: auto;
+    height: auto;
+  } */
+
+/* .divTwo {
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-color: orange;
+    font-size: 50px;
+  }
+}
+
+.pic {
+  width: 500px;
+  height: 500px;
+}
+
+.container {
+  width: 100%;
+  height: 1000px;
+  background-color: #E87E21;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  /* justify-content: center; */
+
+/* justify-content: space-between;
+  justify-content: space-around;
+  align-items: center; */
+
+/* .divy {
+  width: 300px;
+  height: 200px;
+  padding: 50px;
+  display: flex;
+  background-color: #fdeec6;
+  border: 4px solid #ffd78e;
+  margin: 50px;
+  align-items: center;
+  text-align: center;
+  font-size: 80 px;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+  color: #433633;
+} */
+
+/* .item {
+  order: 1;
+}
+
+.item1 {
+  order: 1;
+} */
+
+/* img {
+  flex-wrap: wrap;
+  border: 7px solid #fdd1ab;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  background-color: #433633;
+}
+
+footer h1 {
+  font-size: 20px;
+  color: white;
+  background-color: #433633;
+  text-align: center;
+} */
+
+*/ */
